@@ -4,7 +4,8 @@
 💻 Passionate about Web Development, AI/ML, and building real-world projects
 🌍 Based in Bhubaneswar, India
 
-https://chatgpt.com/s/m_69ecd4e5a4e881919bea8ea42f7edece
+<img width="1983" height="793" alt="ChatGPT Image Apr 25, 2026, 08_22_01 PM" src="https://github.com/user-attachments/assets/f96f9bd6-2723-4576-ab4a-0bc266642938" />
+
 
 ---
 
