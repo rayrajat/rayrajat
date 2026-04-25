@@ -19,34 +19,33 @@
 
 ### 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-FF00FF?style=for-the-badge&logo=python&logoColor=black)
-![Java](https://img.shields.io/badge/Java-FF00FF?style=for-the-badge&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/C-FF00FF?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=mysql&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-FF00FF?style=for-the-badge&logo=gnu-bash&logoColor=black)c
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🌐 Development
-
-![React](https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-00FFFF?style=for-the-badge&logo=node.js&logoColor=black)
-![Django](https://img.shields.io/badge/Django-00FFFF?style=for-the-badge&logo=django&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-00FFFF?style=for-the-badge&logo=fastapi&logoColor=black)
-![Django REST](https://img.shields.io/badge/Django_REST-00FFFF?style=for-the-badge&logo=django&logoColor=black)
-![WebRTC](https://img.shields.io/badge/WebRTC-00FFFF?style=for-the-badge&logo=webrtc&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### 📊 Data & AI/ML
 
-![Pandas](https://img.shields.io/badge/Pandas-9D00FF?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-9D00FF?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-9D00FF?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-9D00FF?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### ⚙️ Core CS
-![DSA](https://img.shields.io/badge/DSA-FF0099?style=for-the-badge&logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF0099?style=for-the-badge&logo=java&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-FF0099?style=for-the-badge&logo=mysql&logoColor=white)
-![OS](https://img.shields.io/badge/Operating_Systems-FF0099?style=for-the-badge&logo=linux&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A66C2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-0A66C2?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-0A66C2?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-0A66C2?style=for-the-badge)
 
 ---
 
