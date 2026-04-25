@@ -4,6 +4,8 @@
 💻 Passionate about Web Development, AI/ML, and building real-world projects
 🌍 Based in Bhubaneswar, India
 
+https://chatgpt.com/s/m_69ecd4e5a4e881919bea8ea42f7edece
+
 ---
 
 ## 🚀 About Me
